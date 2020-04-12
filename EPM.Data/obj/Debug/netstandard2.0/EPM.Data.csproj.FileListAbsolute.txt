@@ -1,0 +1,9 @@
+/home/anks/Documents/dotnetDemos/epm/EPM.Data/bin/Debug/netstandard2.0/EPM.Data.deps.json
+/home/anks/Documents/dotnetDemos/epm/EPM.Data/bin/Debug/netstandard2.0/EPM.Data.dll
+/home/anks/Documents/dotnetDemos/epm/EPM.Data/bin/Debug/netstandard2.0/EPM.Data.pdb
+/home/anks/Documents/dotnetDemos/epm/EPM.Data/obj/Debug/netstandard2.0/EPM.Data.csprojAssemblyReference.cache
+/home/anks/Documents/dotnetDemos/epm/EPM.Data/obj/Debug/netstandard2.0/EPM.Data.csproj.CoreCompileInputs.cache
+/home/anks/Documents/dotnetDemos/epm/EPM.Data/obj/Debug/netstandard2.0/EPM.Data.AssemblyInfoInputs.cache
+/home/anks/Documents/dotnetDemos/epm/EPM.Data/obj/Debug/netstandard2.0/EPM.Data.AssemblyInfo.cs
+/home/anks/Documents/dotnetDemos/epm/EPM.Data/obj/Debug/netstandard2.0/EPM.Data.dll
+/home/anks/Documents/dotnetDemos/epm/EPM.Data/obj/Debug/netstandard2.0/EPM.Data.pdb
